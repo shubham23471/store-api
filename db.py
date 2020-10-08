@@ -7,3 +7,6 @@ db = SQLAlchemy()
 
  from db import db
     db.init_app(app)
+
+
+bla bla bla bla bla bla bla 
