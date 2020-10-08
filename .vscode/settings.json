@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/opt/anaconda3/envs/flask_api/bin/python",
+    "python.dataScience.jupyterServerURI": "local"
+}
